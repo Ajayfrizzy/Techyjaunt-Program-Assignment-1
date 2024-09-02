@@ -1,0 +1,52 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    background-color: green;
+    color: white;
+}
+nav{
+    margin: 1rem 0;
+}
+
+nav a{
+    text-decoration: none;
+    color: rgb(0, 135, 0);
+    font-weight: 600;
+    padding: 0 0.5rem;
+}
+
+img{
+    width: 50%;
+    height: 70vh;
+    display: block;
+}
+
+#p{
+    width: 50%;
+    text-align: center;
+}
+
+.a{
+    text-decoration: underline;
+    color: blue;
+}
+
+#web-content{
+    margin: 4rem 0;
+}
+
+td{
+    text-align: center;
+}
+
+.pt{
+    padding: 1rem 0;
+}
